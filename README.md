@@ -24,3 +24,7 @@ The game must conform to the following rules: </br>
 11) Clicking on the cross should close the game.</br>
 12) The map must be stored in a file with the extension ".ber".</br>
 
+In the bonus part it is necessary to implement the following: </br>
+1) Add enemies to the map, which will have the symbol "K". </br>
+2) Add the death of the player on contact with the enemy. </br>
+3) Add any sprite animation. </br>
